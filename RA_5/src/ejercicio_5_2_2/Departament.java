@@ -6,7 +6,4 @@ public class Departament {
     private int codi;
     private String nom;
 
-    public static class Persona_pare {
-        private ArrayList<Persona_pare> pare;
-    }
 }
