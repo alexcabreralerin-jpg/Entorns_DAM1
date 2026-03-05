@@ -7,7 +7,7 @@ public class Fruta {
     protected float pvc;
 
     public float margen (float unitats){
-        return unitats;
+        return pvp*unitats;
     }
 
 }
